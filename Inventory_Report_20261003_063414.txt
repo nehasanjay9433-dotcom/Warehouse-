@@ -1,0 +1,11 @@
+==============================================
+      WAREHOUSE INVENTORY ANALYTICS REPORT    
+      Generated On: 2026-10-03 06:34:14
+==============================================
+
+Total Inventory Value : ₹1,223,500.00
+Total Product Count   : 7
+Low Stock Alerts      : 0
+Total Revenue Sales   : ₹0.00
+
+==============================================
